@@ -37,7 +37,7 @@ const CommentSection = () => {
   };
 
   return (
-    <div className="max-w-[800px] mx-auto w-full p-4 mt-12">
+    <div className="max-w-[800px] mx-auto  p-4 mt-12">
       <Card className="border-[#4b0005]">
         <CardContent>
           <h2 className="text-2xl font-bold my-6">Leave a Comment</h2>

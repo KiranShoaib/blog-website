@@ -4,7 +4,7 @@ import story from "../../public/story.jpg";
 const Story = () => {
   return (
     <div className="bg-[#fff8fc]">
-    <section className="w-full max-w-[1200px] mx-auto p-6">
+    <section className="max-w-[1200px] mx-auto p-6">
       {/* Header Section */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
       <div className=" md:py-16">

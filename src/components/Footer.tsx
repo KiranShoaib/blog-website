@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="w-full bg-[#4b0005] py-8 text-white">
+    <footer className=" bg-[#4b0005] py-8 text-white">
       <div className="mx-auto max-w-[1200px] flex flex-wrap gap-12 md:gap-20 px-4 md:px-8">
         <div>
           <h3 className="font-bold text-xl cursor-pointer">KIRAN</h3>
@@ -70,7 +70,7 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="mt-8 text-center text-sm border-t-2 border-white pt-4 w-[1140px] mx-auto">
+      <div className="mt-8 text-center text-sm border-t-2 border-white pt-4 max-w-[1200px] mx-auto">
         Copyright © 2025 Fashion Blogger | Powered by Fashion Blogger
       </div>
     </footer>

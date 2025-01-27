@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 export default function ContactForm() {
   return (
-    <section className="w-full mx-auto max-w-[1200px] p-6 grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
+    <section className=" mx-auto max-w-[1200px] p-6 grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
       {/* Left Side - Form */}
       <div>
         <h2 className="txt-2xl md:text-5xl font-bold mb-4">Let&#39;s Get In Touch</h2>

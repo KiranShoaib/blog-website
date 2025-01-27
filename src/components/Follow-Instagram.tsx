@@ -12,7 +12,7 @@ export default function FollowInstagram() {
   ];
 
   return (
-    <section className="w-full mx-auto max-w-[1200px] py-14 ">
+    <section className=" mx-auto max-w-[1200px] py-14 ">
       <h2 className="text-center md:text-5xl text-2xl font-bold  mb-10">Follow Me On Instagram</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         {images.map((src, index) => (

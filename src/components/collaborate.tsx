@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 export default function Collaborate() {
   return (
     <section
-      className="w-full mx-auto max-w-[1200px] mb-10 p-6 md:p-11 text-white bg-cover bg-center flex flex-col items-center text-center relative"
+      className="mx-auto max-w-[1200px] mb-10 p-6 md:p-11 text-white bg-cover bg-center flex flex-col items-center text-center relative"
       style={{ backgroundImage: "url('/collaborate.jpg')" }}
     >
       <div className="absolute inset-0 bg-[#4b0005] opacity-85"></div>

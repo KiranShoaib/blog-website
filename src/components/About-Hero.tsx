@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 const AboutHero = () => {
   return (
-    <section className="w-full max-w-[1200px] mx-auto flex flex-col md:flex-row items-center gap-6 p-4 space-y-11  md:space-y-0 my-14 md:my-20">
+    <section className="max-w-[1200px] mx-auto flex flex-col md:flex-row items-center gap-6 p-4 space-y-11  md:space-y-0 my-14 md:my-20">
       {/* Left Images Section */}
       <div className="flex flex-1 flex-row gap-4">
         <div className="flex-1">

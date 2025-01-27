@@ -4,7 +4,7 @@ import biography from "../../public/biography.jpg";
 
 export default function Biography() {
   return (
-    <section className="w-full mx-auto max-w-[1200px] p-6 md:py-12">
+    <section className="mx-auto max-w-[1200px] p-6 md:py-12">
       <div className="flex flex-col md:flex-row items-center gap-6">
         {/* Left Side: Image */}
         <div className="flex-1 w-full h-[300px] md:h-auto">

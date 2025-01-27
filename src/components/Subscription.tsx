@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Subscription() {
   return (
-    <section className="w-full mx-auto max-w-[1200px] p-6 md:p-11 bg-[#4b0005] text-white">
+    <section className="mx-auto max-w-[1200px] p-6 md:p-11 bg-[#4b0005] text-white">
       <div className="flex flex-col-reverse md:flex-row items-center gap-6">
         {/* Left Side - Content */}
         <div className="flex-1">
