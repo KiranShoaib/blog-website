@@ -35,7 +35,7 @@ export default function ContactForm() {
             <label htmlFor="message" className="block font-bold text-[#262526]">Message:</label>
             <textarea
               id="message"
-              className="w-full border border-[#4b0005] p-2 rounded placeholder:bg-[#fff8fc]"
+              className="w-full border border-[#4b0005] p-2 rounded bg-[#fff8fc]"
               placeholder="Write your message"
               rows={4}
             ></textarea>
